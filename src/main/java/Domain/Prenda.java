@@ -1,4 +1,4 @@
-package Domain;
+package main.java.Domain;
 
 public class Prenda {
 	private double precioBase;

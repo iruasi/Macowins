@@ -1,4 +1,4 @@
-package Domain;
+package main.java.Domain;
 
 public class Item {
 	private Prenda prenda;

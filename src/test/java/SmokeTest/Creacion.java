@@ -1,7 +1,7 @@
-package SmokeTest;
+package test.java.SmokeTest;
 
-import Domain.*;
-import Repositorio.RepositorioVentas;
+import main.java.Domain.*;
+import main.java.Repositorio.RepositorioVentas;
 
 import static org.junit.Assert.*;
 

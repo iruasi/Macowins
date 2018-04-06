@@ -1,5 +1,5 @@
-package Domain;
-import Repositorio.RepositorioVentas;
+package main.java.Domain;
+import main.java.Repositorio.RepositorioVentas;
 import java.util.ArrayList;
 import java.util.Date;
 

@@ -1,5 +1,5 @@
-package SmokeTest;
-import Domain.*;
+package test.java.SmokeTest;
+import main.java.Domain.*;
 
 public class Fixture {
 	

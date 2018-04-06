@@ -1,6 +1,6 @@
-package Repositorio;
+package main.java.Repositorio;
 import java.util.ArrayList;
-import Domain.Venta;
+import main.java.Domain.Venta;
 
 public final class RepositorioVentas {
 	ArrayList<Venta> ventas = new ArrayList<>();
